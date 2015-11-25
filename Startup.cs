@@ -13,3 +13,4 @@ namespace HelloWeb
             app.UseWelcomePage();
         }
     }
+}
